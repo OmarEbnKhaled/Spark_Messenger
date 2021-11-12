@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "631224433715",
+    "project_id": "spark-messenger-random-chat",
+    "storage_bucket": "spark-messenger-random-chat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:631224433715:android:e7091ef74b94af8b01b746",
+        "android_client_info": {
+          "package_name": "com.omar.sparkmessenger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "631224433715-k7tkc9e63jqnclhs6rl5vj0n1sg2gatn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJwzdR0kNSZsvvZQu9G-okbyqv2T-_FoI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "631224433715-k7tkc9e63jqnclhs6rl5vj0n1sg2gatn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
